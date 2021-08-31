@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="title_activity_main">MainActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="title_activity_main2">MainActivity</string>
+    <string name="button_to_cycle">1. To Life Cycle Events</string>
+    <string name="button_to_click">2. To Click Events</string>
+    <string name="button_to_android_extensions">3. To Android Extensions</string>
+    <string name="button_to_picasso">4. To Picasso</string>
+    <string name="button_to_list_view">5. To List View</string>
+    <string name="button_to_intents">6. To Intents</string>
+    <string name="button_to_permissions">7. To Permissions</string>
+    <string name="button_to_shared_preferences">8. To Shared Preferences</string>
+    <string name="button_to_extension_functions">9. To Extension Functions</string>
+    <string name="button_click_xml">Click by XML</string>
+    <string name="button_click_in_line">Click In Line</string>
+    <string name="button_multi_1">Multiple Buttons 1</string>
+    <string name="button_multi_2">Multiple Buttons 2</string>
+    <string name="button_multi_3">Multiple Buttons 3</string>
+    <string name="button_by_findviewbyid">Button by FindViewById</string>
+    <string name="button_by_kat">Button By KAT</string>
+    <string name="load_images">Load Images</string>
+    <string name="intent_with_extras">Intent With Extras</string>
+    <string name="intent_with_flags">Intent With Flags</string>
+    <string name="intent_object">Intent Object</string>
+    <string name="go_back">Go Back</string>
+    <string name="developer">Developer</string>
+    <string name="take_a_picture">Take a Picture</string>
+    <string name="name">Name</string>
+    <string name="age">Age</string>
+    <string name="save">Save</string>
+</resources>
