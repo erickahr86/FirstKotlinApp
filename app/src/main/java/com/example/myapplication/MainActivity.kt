@@ -23,7 +23,7 @@ class MainActivity : ToolbarActivity() {
         toolbarToLoad( toolbar )
 
 
-        val btnLifecycle          = findViewById<Button>( R.id.button_to_cycle)
+         val btnLifecycle          = findViewById<Button>( R.id.button_to_cycle)
         val btnClickEvents        = findViewById<Button>( R.id.button_to_click)
         val btnAndroidExt         = findViewById<Button>( R.id.button_to_android_extensions)
         val btnPicasso            = findViewById<Button>( R.id.button_to_picasso)
