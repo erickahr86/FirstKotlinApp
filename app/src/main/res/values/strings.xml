@@ -36,4 +36,8 @@
     <string name="name">Name</string>
     <string name="age">Age</string>
     <string name="save">Save</string>
+    <string name="toast">Toast</string>
+    <string name="snackbar">SnackBar</string>
+    <string name="load_by_url">Load By URL</string>
+    <string name="go_to_activity">Go To Activity</string>
 </resources>
